@@ -11,7 +11,9 @@ Preprint available at https://psyarxiv.com/qsgej/
 
 `main_data.csv` and `exposure_data.csv`: data for all models
 
-`reliability_data.csv`: data frame for reliability analysis of religiosity items
+`reliability_data.csv`: data for reliability analysis of religiosity items
+
+`codebook.R`: a codebook for all three data sets
 
 `SupplementaryDocument.pdf`: supplements including discussion of causal inference, missing data, the statistical models, simple prior and posterior predictive checks of all models, details on poststratification and imputation, as well as supplementary results and a list of R packages, their dependencies, and version number used for the project.
 
@@ -23,4 +25,5 @@ Some system details:
  system   x86_64, mingw32
  rstudio  2021.09.0+351 Ghost Orchid (desktop)`
  
- Comments are very welcome! tb@cas.au.dk
+ Comments are very welcome! 
+ Contact: tb@cas.au.dk
