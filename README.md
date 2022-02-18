@@ -20,10 +20,10 @@ Preprint available at https://psyarxiv.com/qsgej/
 The R package `renv` helps to ensure a reproducible package environment and is required to run the scripts.
 
 Some system details:
- `version  R version 4.1.2 (2021-11-01)
- os       Windows 10 x64 (build 19043)
- system   x86_64, mingw32
- rstudio  2021.09.0+351 Ghost Orchid (desktop)`
+ - `version  R version 4.1.2 (2021-11-01)`
+ - `os       Windows 10 x64 (build 19043)`
+ - `system   x86_64, mingw32`
+ - `rstudio  2021.09.0+351 Ghost Orchid (desktop)`
  
  Comments are very welcome! 
  
