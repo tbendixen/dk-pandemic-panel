@@ -17,7 +17,7 @@ Preprint available at https://psyarxiv.com/qsgej/
 
 `eurostat.csv`: external data for poststratification
 
-`SupplementaryDocument.pdf`: supplements including discussion of causal inference, missing data, the statistical models, simple prior and posterior predictive checks of all models, details on poststratification and imputation, as well as supplementary results and a list of R packages, their dependencies, and version number used for the project.
+`SupplementaryDocument.pdf`: supplements including discussion of causal inference, missing data, the statistical models, simple prior and posterior predictive checks of all models, details on poststratification and imputation, as well as supplementary results, and a list of R packages, their dependencies, and version number used for the project.
 
 The R package `renv` helps to ensure a reproducible package environment and is required to run the scripts.
 
