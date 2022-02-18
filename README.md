@@ -13,9 +13,9 @@ Preprint available at https://psyarxiv.com/qsgej/
 
 `reliability_data.csv`: data for reliability analysis of religiosity items
 
-`eurostat.csv`: external data for poststratification
-
 `codebook.R`: a codebook for all three data sets
+
+`eurostat.csv`: external data for poststratification
 
 `SupplementaryDocument.pdf`: supplements including discussion of causal inference, missing data, the statistical models, simple prior and posterior predictive checks of all models, details on poststratification and imputation, as well as supplementary results and a list of R packages, their dependencies, and version number used for the project.
 
