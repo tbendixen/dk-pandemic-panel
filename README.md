@@ -3,7 +3,7 @@ Repository for: "Does a Pandemic Increase Religiosity in a Secular Nation? A Lon
 
 Preprint available at https://psyarxiv.com/qsgej/
 
-**Updated on 19th July with an additional wave of data**, see `_v2` files
+**Updated on 19th July 2022 with an additional wave of data**, see `_v2` files
 
 `pandemic_panel_models.R`: script for fitting all models (NB: computationally intensive)
 
