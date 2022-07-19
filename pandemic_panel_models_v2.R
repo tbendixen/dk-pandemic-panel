@@ -785,7 +785,7 @@ set.seed(NULL)
 ### Exposure models
 
 # read in exposure data
-df_exp <- read.csv("exposure_data_4waves.csv")
+df_exp <- read.csv("exposure_data_v2.csv")
 
 ### re-scoring outcome variable
 df_exp$y[df_exp$wave == 1][df_exp$y[df_exp$wave == 1]==3] <- NA # (in wave 1, 3 = "neither agree nor disagree")
