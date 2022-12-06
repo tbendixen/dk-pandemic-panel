@@ -33,13 +33,13 @@
 # "Hvor vigtigt er religion i dit liv?" ("How important is religion to you?")
 # 1 Meget vigtigt         (very important)
 # 2 Temmelig vigtigt      (somewhat important)
-# 3 Ikke særlig vigtigt   (not really important)
+# 3 Ikke sÃ¦rlig vigtigt   (not really important)
 # 4 Slet ikke vigtigt     (not at all important)
 
 ## health: 
-# "Hvordan vil du beskrive dit nuværende helbred?" ("How would you describe your current health?")
-# 1 Meget dårligt (very bad)
-# 2 Dårligt       (bad)
+# "Hvordan vil du beskrive dit nuvÃ¦rende helbred?" ("How would you describe your current health?")
+# 1 Meget dÃ¥rligt (very bad)
+# 2 DÃ¥rligt       (bad)
 # 3 Nogenlunde    (okay)
 # 4 Godt          (good)
 # 5 Meget godt    (very good)
@@ -55,9 +55,9 @@
 # 2 Almen gymnasial uddannelse (studentereksamen/HF)  (high school/vocational training)
 # 3 Erhvervsgymnasial uddannelse (HH/HTX/HHX)         (high school/vocational training)
 # 4 Erhvervsfaglig uddannelse                         (high school/vocational training)
-# 6 Kort videregående uddannelse under 3 år           (short cycle higher education (below three years))
-# 7 Mellemlang videregående uddannelse 3-4 år         ((vocational) bachelors education (3-4 years))
-# 8 Lang videregående uddannelse 5 år eller mere      (masters education (5 years or more))
+# 6 Kort videregÃ¥ende uddannelse under 3 Ã¥r           (short cycle higher education (below three years))
+# 7 Mellemlang videregÃ¥ende uddannelse 3-4 Ã¥r         ((vocational) bachelors education (3-4 years))
+# 8 Lang videregÃ¥ende uddannelse 5 Ã¥r eller mere      (masters education (5 years or more))
 # 6 Forskeruddannelse (f.eks. ph.d.)                  (doctoral degree) 
 
 ## household_income: annual household income (pre-tax)
@@ -78,26 +78,26 @@
 ## id: unique id number
 
 ## ritual: 
-# "Har du deltaget i en/flere religiøse handlinger (fx gudstjeneste, bøn, offer, prædikener, foredrag, undervisning osv.) siden jul?"
+# "Har du deltaget i en/flere religiÃ¸se handlinger (fx gudstjeneste, bÃ¸n, offer, prÃ¦dikener, foredrag, undervisning osv.) siden jul?"
 # ("Have you participated in one or more religious rituals or acts (e.g., church service, paryer, sacrifice, sermons, lectures, etc.) since Christmas ?")
 # 1 Aldrig          (never)
-# 2 Næsten aldrig   (almost never)
-# 3 Ja, sjældent    (yes, rarely)
+# 2 NÃ¦sten aldrig   (almost never)
+# 3 Ja, sjÃ¦ldent    (yes, rarely)
 # 4 Ja, ofte        (yes, often)
 # 5 Ved ikke        (don't know)
 
 ## church:
-# "Hvor ofte plejer du at gå i kirke, moske, tempel, gurdwara, synagoge eller lignende?"
+# "Hvor ofte plejer du at gÃ¥ i kirke, moske, tempel, gurdwara, synagoge eller lignende?"
 # ("How often do you usually attend church, mosque, temple, gurdwara, synagogue, or similar?")
-# 1 Aldrig eller næsten aldrig  (never or almost never)
-# 2 Flere gange om året         (several times a year)
-# 3 Mindst én gang om måneden   (at least once a month)
-# 4 Én gang om ugen             (once a week)
-# 5 Mere end én gang om ugen    (more than once a week)
+# 1 Aldrig eller nÃ¦sten aldrig  (never or almost never)
+# 2 Flere gange om Ã¥ret         (several times a year)
+# 3 Mindst Ã©n gang om mÃ¥neden   (at least once a month)
+# 4 Ã‰n gang om ugen             (once a week)
+# 5 Mere end Ã©n gang om ugen    (more than once a week)
 # 6 Hver dag                    (every day)
 
 ## belief:
-# "Uanset om du går i kirke eller ej, vil du så mene du er..."
+# "Uanset om du gÃ¥r i kirke eller ej, vil du sÃ¥ mene du er..."
 # ("Whether you attend church or not, would you say you are...")
 # 1 Et troende menneske         ("a believer")
 # 2 Et ikke troende menneske    ("a non-believer")
@@ -105,12 +105,12 @@
 # 4 Ved ikke                    ("dont know")
 
 ## god:
-# "Hvilket af disse udsagn kommer nærmest din tro?"
+# "Hvilket af disse udsagn kommer nÃ¦rmest din tro?"
 # ("Which of these statements are closest to your faith?")
 # 1 Der er en personlig Gud                                               ("there's a personal God")
-# 2 Der er en guddommelig kraft eller ånd, men ikke personificeret Gud    ("there's a divine force or spirit, but not a personified God")
+# 2 Der er en guddommelig kraft eller Ã¥nd, men ikke personificeret Gud    ("there's a divine force or spirit, but not a personified God")
 # 3 Jeg ved ikke, hvad jeg skal tro                                       ("I don't know what to believe")
-# 4 Jeg tror ikke der er nogen åndelig kraft eller personlig Gud          ("I don't believer there's a spiritual force or personal God")
+# 4 Jeg tror ikke der er nogen Ã¥ndelig kraft eller personlig Gud          ("I don't believer there's a spiritual force or personal God")
 # 5 Ved ikke                                                              ("don't know")
 
 ## y (in wave 1)
@@ -144,44 +144,44 @@
 # "Hvor vigtigt er religion i dit liv?" ("How important is religion to you?")
 # 1 Meget vigtigt         (very important)
 # 2 Temmelig vigtigt      (somewhat important)
-# 3 Ikke særlig vigtigt   (not really important)
+# 3 Ikke sÃ¦rlig vigtigt   (not really important)
 # 4 Slet ikke vigtigt     (not at all important)
 
 ### Pandemic exposure: 
-# "Hvorledes har du haft Coronavirus inde på dit eget liv?"
+# "Hvorledes har du haft Coronavirus inde pÃ¥ dit eget liv?"
 # ("How has corona virus impacted your life/health?")
 
 # Includes four sub items:
 
-## pandemic_exo_1: pandemic exposure, self
-# "Jeg har selv været syg" ("I've been ill [with corona virus] myself")
+## exp_self: pandemic exposure, self
+# "Jeg har selv vÃ¦ret syg" ("I've been ill [with corona virus] myself")
 # 1                             Nej, men er ikke blevet testet (no, but have not been tested)
 # 2                           Nej, og er blevet testet negativ (no, and have tested negative)
-# 3 Ja, har testet positiv, men ikke særlig syg af Coronavirus (yes, have tested positive but was not very ill)
-# 4                    Ja, har været meget syg med Coronavirus (yes, have tested positive and was very ill)
+# 3 Ja, har testet positiv, men ikke sÃ¦rlig syg af Coronavirus (yes, have tested positive but was not very ill)
+# 4                    Ja, har vÃ¦ret meget syg med Coronavirus (yes, have tested positive and was very ill)
 # 5                                                Ja, indlagt (yes, was hospitalized)
 
-## pandemic_exo_2: pandemic exposure, household
+## exp_household: pandemic exposure, household
 # "Jeg har/har haft syge i min husstand" ("Someone in my household is/has been ill [with corona virus]")
 # 1                             Nej, men er ikke blevet testet (no, but have not been tested)
 # 2                           Nej, og er blevet testet negativ (no, and have tested negative)
-# 3 Ja, har testet positiv, men ikke særlig syg af Coronavirus (yes, have tested positive but was not very ill)
-# 4                    Ja, har været meget syg med Coronavirus (yes, have tested positive and was very ill)
+# 3 Ja, har testet positiv, men ikke sÃ¦rlig syg af Coronavirus (yes, have tested positive but was not very ill)
+# 4                    Ja, har vÃ¦ret meget syg med Coronavirus (yes, have tested positive and was very ill)
 # 5                                                Ja, indlagt (yes, was hospitalized)
 
-## pandemic_exo_3: pandemic exposure, family
+## exp_family: pandemic exposure, family
 # "Jeg har/har haft syge i min family" ("Someone in my family is/has been ill [with corona virus]")
 # 1                             Nej, men er ikke blevet testet (no, but have not been tested)
 # 2                           Nej, og er blevet testet negativ (no, and have tested negative)
-# 3 Ja, har testet positiv, men ikke særlig syg af Coronavirus (yes, have tested positive but was not very ill)
-# 4                    Ja, har været meget syg med Coronavirus (yes, have tested positive and was very ill)
+# 3 Ja, har testet positiv, men ikke sÃ¦rlig syg af Coronavirus (yes, have tested positive but was not very ill)
+# 4                    Ja, har vÃ¦ret meget syg med Coronavirus (yes, have tested positive and was very ill)
 # 5                                                Ja, indlagt (yes, was hospitalized)
 
-## pandemic_exo_4: pandemic exposure, relations
+## exp_relations: pandemic exposure, relations
 # "Jeg har/har haft syge i min bekendtskabskreds" ("Someone in my relations is/has been ill [with corona virus]")
 # 1                             Nej, men er ikke blevet testet (no, but have not been tested)
 # 2                           Nej, og er blevet testet negativ (no, and have tested negative)
-# 3 Ja, har testet positiv, men ikke særlig syg af Coronavirus (yes, have tested positive but was not very ill)
-# 4                    Ja, har været meget syg med Coronavirus (yes, have tested positive and was very ill)
+# 3 Ja, har testet positiv, men ikke sÃ¦rlig syg af Coronavirus (yes, have tested positive but was not very ill)
+# 4                    Ja, har vÃ¦ret meget syg med Coronavirus (yes, have tested positive and was very ill)
 # 5                                                Ja, indlagt (yes, was hospitalized)
 
