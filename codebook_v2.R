@@ -29,7 +29,7 @@
 # 4	Overvejende enig          (somewhat agree)
 # 5	Helt enig                 (strongly agree)
 
-## y (in wave 2 and 3)
+## y (in wave 2-4)
 # "Hvor vigtigt er religion i dit liv?" ("How important is religion to you?")
 # 1 Meget vigtigt         (very important)
 # 2 Temmelig vigtigt      (somewhat important)
@@ -140,7 +140,7 @@
 # 4	Overvejende enig          (somewhat agree)
 # 5	Helt enig                 (strongly agree)
 
-## y (in wave 2 and 3)
+## y (in wave 2-4)
 # "Hvor vigtigt er religion i dit liv?" ("How important is religion to you?")
 # 1 Meget vigtigt         (very important)
 # 2 Temmelig vigtigt      (somewhat important)
